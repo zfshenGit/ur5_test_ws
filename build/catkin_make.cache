@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/zhifeishen/ur5_test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhifeishen/ur5_test_ws/install -G Unix Makefiles
