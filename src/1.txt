@@ -1,1 +1,2 @@
 conflict fixed
+add merge
