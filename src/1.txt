@@ -1,2 +1,3 @@
 conflict fixed
 add merge
+stash 1
